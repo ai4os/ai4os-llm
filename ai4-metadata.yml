@@ -7,7 +7,7 @@ dates:
   created: '2024-12-11'
   updated: '2024-12-11'
 links:
-  source_code: https://github.com/ai4os/ai4-llm-tool
+  source_code: https://github.com/ai4os/ai4-llm
   ai4_template: ai4-template/1.9.9
 tags:
   - llm
