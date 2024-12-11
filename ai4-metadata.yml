@@ -1,0 +1,22 @@
+metadata_version: 2.0.0
+title: Deploy your LLM
+summary: Deploy your own LLM instance with VLLM and OpenWebUI.
+description: |-
+  This tool allows to deploy your own LLM instance with VLLM and OpenWebUI.
+dates:
+  created: '2024-12-11'
+  updated: '2024-12-11'
+links:
+  source_code: https://github.com/ai4os/ai4-llm-tool
+  ai4_template: ai4-template/1.9.9
+tags:
+  - llm
+tasks:
+  - Natural Language Processing
+  - Generative Models
+categories:
+  - AI4 tools
+libraries:
+  - Other
+data-type:
+  - Text
