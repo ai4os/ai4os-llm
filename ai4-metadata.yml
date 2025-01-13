@@ -9,6 +9,7 @@ dates:
 links:
   source_code: https://github.com/ai4os/ai4-llm
   ai4_template: ai4-template/1.9.9
+  docker_image: vllm/vllm-openai:latest
 tags:
   - llm
 tasks:
