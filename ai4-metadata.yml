@@ -2,7 +2,14 @@ metadata_version: 2.0.0
 title: Deploy your LLM
 summary: Deploy your own LLM instance with VLLM and OpenWebUI.
 description: |-
-  This tool allows to deploy your own LLM instance with VLLM and OpenWebUI.
+  This tool allows to deploy your own LLM instance with VLLM (as backend) and OpenWebUI (as chat interface).
+  You can deploy tehm together or as standalone components.
+
+  As we are using small GPU cards for deploying (NVIDIA T4), for the moment we only support the deployment of small LLMs (eg. Qwen2.5 1.5B) or medium size LLMs (eg. Qwen2.5 7B) that have been quantized (eg. AWQ, GPTQ).
+  Big quantized models usually have better accuraccy but smaller models run faster.
+
+  <img class='fit', src='https://docs.ai4eosc.eu/en/latest/_images/landing.png'/>
+  
 dates:
   created: '2024-12-11'
   updated: '2024-12-11'
