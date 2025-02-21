@@ -3,7 +3,6 @@ title: Deploy your LLM
 summary: Deploy your own LLM instance with VLLM and OpenWebUI.
 description: |-
   This tool allows to deploy your own LLM instance with VLLM (as backend) and OpenWebUI (as chat interface).
-
   Go to the [LLM tool documentation](https://docs.ai4eosc.eu/en/latest/howtos/deploy/llm.html) for more information.
 
   <img class='fit', src='https://docs.ai4eosc.eu/en/latest/_images/openwebui-landing.png'/>
